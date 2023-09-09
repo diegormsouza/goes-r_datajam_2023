@@ -1,4 +1,4 @@
-![image](https://github.com/diegormsouza/goes-r_datajam_2023/assets/54595784/5de4a47a-1e0d-4565-98ee-93915732ab7e)# 🛰️ GOES-R DataJam 2023 - Visualizing and Analyzing GOES-R Data Using Google Colab 🌎
+# 🛰️ GOES-R DataJam 2023 - Visualizing and Analyzing GOES-R Data Using Google Colab 🌎
 
 In this repository, you will find all the resources used during the training.
 
@@ -8,5 +8,5 @@ In this repository, you will find all the resources used during the training.
 
 - **Google Colab Notebooks** directory: Google COLAB notebooks to run Python scripts directly in the cloud
   
-Sched webpage: https://goesrdatajam.sched.com/event/1RI91/visualizing-and-analyzing-goes-r-data-using-google-colab
+- **Sched** webpage: https://goesrdatajam.sched.com/event/1RI91/visualizing-and-analyzing-goes-r-data-using-google-colab
 
